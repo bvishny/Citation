@@ -1,0 +1,2 @@
+class Machine < TokyoRecord
+end
